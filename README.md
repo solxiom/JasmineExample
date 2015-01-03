@@ -1,4 +1,4 @@
 JasmineExample
 ==============
 
-BDD with Jasmine in a small example project
+BDD with Jasmine and AngularJS in a small example project

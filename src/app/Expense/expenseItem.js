@@ -1,9 +1,9 @@
 /**
  * Created by kavan on 2.1.2015.
  */
-function ExpenseItem(type, description, amount) {
+function ExpenseItem(title, description, amount) {
     this.description = description;
-    this.type = type;
+    this.title = title;
     this.amount = amount;
 }
 
